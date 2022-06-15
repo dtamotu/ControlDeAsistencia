@@ -1,4 +1,4 @@
-# ControlDeAsistencia
+# ControlDeAsistencia Grupo 5
 
 Presentamos un software de toma de Asistencia para el aula, utilizando una cámara web o de celular y los códigos QR. Y validación de un QR por persona, reconociendo la forma de las manos.
 El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas organizaciones, con la ventaja de poder añadir un logo al código QR para que sea más personalizable, habiendo en el mercado opciones de pago, las cuales no pueden ser pagadas por pequeñas organizaciones, nuestro aplicativo solucionaría esa necesidad sin invertir dinero extra en suscripciones.
