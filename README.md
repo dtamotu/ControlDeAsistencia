@@ -18,5 +18,10 @@ ejm de Version de Paga
 ![image](https://user-images.githubusercontent.com/104528081/173900214-573de694-3322-4bdd-8479-4c280964384a.png)
 ## Construido con 🛠️
   C++ 
-  OpenCv
+  OpenCv \\
+  sudo apt-get install build-essential cmake \\
+  sudo apt-get install qt5-default libvtk6-dev \\
+  sudo apt-get install zlib1g-dev libjpeg-dev libwebp-dev libpng-dev libtiff5-dev libjasper-dev libopenexr-dev libgdal-dev libdc1394-22-dev libavcodec-dev libavformat-dev libswscale-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libv4l-dev libxine-dev
+
+
 ## Wiki
