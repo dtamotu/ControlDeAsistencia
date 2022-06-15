@@ -12,7 +12,7 @@ ejm de Version de Paga
 ![frame](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)
 ## Autores: 
   Sennayda Rimache, Choquehuanca //
-  David Ernesto, Tamo Turpo //
+  David Ernesto, Tamo Turpo dtamo@unsa.edu.pe //
   Vicente Manuel, Bartolini Izquierdo //
 ## 🔧 Licencia: APACHE  2.0 
 ## Funciones:
