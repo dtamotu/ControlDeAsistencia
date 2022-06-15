@@ -9,7 +9,7 @@ El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas
   Tener una estadística real de los alumnos si llegan tarde o temprano, y posteriormente tal vez en otro proyecto encontrar una correlación entre la asistencia y las notas, el aprovechamiento de los cursos de pregrado.
 ejm de Version de Paga
 ![frame](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)
-#Autores: 
+## Autores: 
   Sennayda Rimache, Choquehuanca
   David Ernesto, Tamo Turpo
   Vicente Manuel, Bartolini Izquierdo
