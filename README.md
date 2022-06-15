@@ -8,26 +8,35 @@ El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas
   Se desaprovecha entre 5 a 10 minutos cada vez que se toma asistencia y el usar una lista de papel y firmas no es seguro pues un compañero podría firmar 2 veces y dar un falso presente.
   Aprovechar la tecnología y los recursos ya existentes en clase como lo es la cámara web. 
   Tener una estadística real de los alumnos si llegan tarde o temprano, y posteriormente tal vez en otro proyecto encontrar una correlación entre la asistencia y las notas, el aprovechamiento de los cursos de pregrado.
+  
 ejm de Version de Paga
-![frame](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)
-## Autores: 
-  Sennayda Rimache, Choquehuanca srimache@unsa.edu.pe//
-  
-  David Ernesto, Tamo Turpo dtamo@unsa.edu.pe //
-  
-  Manuel Vicente, Bartolini Izquierdo mbartolini@unsa.edu.pe //
+<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)" width="400">
 ## Objetivos:
   1 Desarrollar un software de reconociento de códigos QR que será instalado en la pc del Aula  y un generador de QR para cada día distinto para los estudiantes.
+  
   2 Desarrollar un software de reconociento manos, almacenamiento y diferencia en un vector caracteristica.
-  3 Utilizar las estructuras de datos  para acelerar la busqueda y comparación de las manos.
+  
+  3 Utilizar las estructuras de datos  para acelerar la busqueda y comparación de las manos
+## Autores: 
+  Sennayda Rimache, Choquehuanca srimache@unsa.edu.pe
+  
+  David Ernesto, Tamo Turpo dtamo@unsa.edu.pe 
+  
+  Manuel Vicente, Bartolini Izquierdo mbartolini@unsa.edu.pe 
+  
+  Joao Franco Emanuel Chávez Salas jchavezsa@unsa.edu.pe
+.
 ## 🔧 Licencia: APACHE  2.0 
 ## Funciones:
 ![image](https://user-images.githubusercontent.com/104528081/173900214-573de694-3322-4bdd-8479-4c280964384a.png)
 ## Será Construido con 🛠️
-  C++ 
-  OpenCv \\ QT
-  sudo apt-get install build-essential cmake \\
-  sudo apt-get install qt5-default libvtk6-dev \\
+  C++ OpenCv  QT
+### Instalación en Ubuntu 
+  
+  sudo apt-get install build-essential cmake 
+  
+  sudo apt-get install qt5-default libvtk6-dev 
+  
   sudo apt-get install zlib1g-dev libjpeg-dev libwebp-dev libpng-dev libtiff5-dev libjasper-dev libopenexr-dev libgdal-dev libdc1394-22-dev libavcodec-dev libavformat-dev libswscale-dev libtheora-dev libvorbis-dev libxvidcore-dev libx264-dev yasm libfaac-dev libopencore-amrnb-dev libopencore-amrwb-dev libv4l-dev libxine-dev
 
 
