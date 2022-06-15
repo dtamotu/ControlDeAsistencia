@@ -16,7 +16,10 @@ ejm de Version de Paga
   David Ernesto, Tamo Turpo dtamo@unsa.edu.pe //
   
   Manuel Vicente, Bartolini Izquierdo mbartolini@unsa.edu.pe //
-  
+## Objetivos:
+  1 Desarrollar un software de reconociento de códigos QR que será instalado en la pc del Aula  y un generador de QR para cada día distinto para los estudiantes.
+  2 Desarrollar un software de reconociento manos, almacenamiento y diferencia en un vector caracteristica.
+  3 Utilizar las estructuras de datos  para acelerar la busqueda y comparación de las manos.
 ## 🔧 Licencia: APACHE  2.0 
 ## Funciones:
 ![image](https://user-images.githubusercontent.com/104528081/173900214-573de694-3322-4bdd-8479-4c280964384a.png)
