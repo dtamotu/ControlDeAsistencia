@@ -9,8 +9,7 @@ El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas
   Aprovechar la tecnología y los recursos ya existentes en clase como lo es la cámara web. 
   Tener una estadística real de los alumnos si llegan tarde o temprano, y posteriormente tal vez en otro proyecto encontrar una correlación entre la asistencia y las notas, el aprovechamiento de los cursos de pregrado.
   
-ejm de Version de Paga
-<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)" width="400">
+ejm de Version de Paga![image](https://user-images.githubusercontent.com/104528081/173920530-48a9bf09-40b2-45bf-a313-9f1a20f10626.png) 
 ## Objetivos:
   1 Desarrollar un software de reconociento de códigos QR que será instalado en la pc del Aula  y un generador de QR para cada día distinto para los estudiantes.
   
