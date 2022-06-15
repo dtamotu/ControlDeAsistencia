@@ -11,7 +11,7 @@ El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas
 ejm de Version de Paga
 ![frame](https://user-images.githubusercontent.com/104528081/173897313-4bef36fa-9535-4697-925b-b94da4e47484.png)
 ## Autores: 
-  Sennayda Rimache, Choquehuanca //
+  Sennayda Rimache, Choquehuanca srimache@unsa.edu.pe//
   David Ernesto, Tamo Turpo dtamo@unsa.edu.pe //
   Manuel Vicente, Bartolini Izquierdo mbartolini@unsa.edu.pe //
 ## 🔧 Licencia: APACHE  2.0 
