@@ -24,6 +24,8 @@ ejm de Version de Paga![image](https://user-images.githubusercontent.com/1045280
   Manuel Vicente, Bartolini Izquierdo mbartolini@unsa.edu.pe 
   
   Joao Franco Emanuel Chávez Salas jchavezsa@unsa.edu.pe
+  
+  Jesus Alonso Vilca Samanez jvilcasam@unsa.edu.pe
 .
 ## 🔧 Licencia: APACHE  2.0 
 ## Funciones:
