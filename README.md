@@ -4,6 +4,11 @@
 Presentamos un software de toma de Asistencia para el aula, utilizando una cámara web o de celular y los códigos QR. Y validación de un QR por persona, reconociendo la forma de las manos.
 El aplicativo también podría ser ampliado a la toma de asistencia en pequeñas organizaciones, con la ventaja de poder añadir un logo al código QR para que sea más personalizable, habiendo en el mercado opciones de pago, las cuales no pueden ser pagadas por pequeñas organizaciones, nuestro aplicativo solucionaría esa necesidad sin invertir dinero extra en suscripciones.
 
+![image](https://user-images.githubusercontent.com/73800484/175775720-a0fb128a-9c7f-4c27-941d-0259cc90364c.png)
+![image](https://user-images.githubusercontent.com/73800484/175775735-45128fd8-3352-4c45-a2cd-5378cd1e1865.png)
+
+Se hará uso de programas tales como open CV y c++ para el reconocimiento de gestos con las manos de modo que se vaya comparando con los datos ya guardados y optimizar esa comparación a la hora de la detección de movimiento y tratar de hacer más eficiente dicho reconocimiento.
+
 ## Motivación
   Se desaprovecha entre 5 a 10 minutos cada vez que se toma asistencia y el usar una lista de papel y firmas no es seguro pues un compañero podría firmar 2 veces y dar un falso presente.
   Aprovechar la tecnología y los recursos ya existentes en clase como lo es la cámara web. 
