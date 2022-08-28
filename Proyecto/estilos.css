@@ -1,0 +1,27 @@
+.logo {
+    width: 400px;
+    height: 370px;
+  }
+  
+  .imagen {
+    fill: #94d31b; 
+    
+   stroke: #909;
+   stroke-width: 10;
+    
+  }
+  .imagen:hover {
+    fill: #e63c3c; 
+  }
+  
+  .ground {
+    fill: #787f6a;
+  }
+  .ground:hover {
+    filter: url(#pictureFilter);
+    fill: #896d3d;
+  }
+  
+  body {
+    padding: 20px;
+  }
