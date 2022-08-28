@@ -170,7 +170,7 @@ std::pair<int,int> Converter::findNextPath(std::pair<int,int> init){
 
 std::string Converter::convertToSVG(){
     std::pair<int,int> lastContour=findContour();
-    std::string svg="<svg height='"+std::to_string(marked_matrix.size()) +"' width='"+std::to_string(marked_matrix[0].size())+"'>\n<path d='M"+std::to_string(lastContour.second)+" "+std::to_string(lastContour.first)+" ";
+    std::string svg="<svg height='"+std::to_string(marked_matrix.size()) +"' width='"+std::to_string(marked_matrix[0].size())+"'>\n<path class=\"imagen\" d='M"+std::to_string(lastContour.second)+" "+std::to_string(lastContour.first)+" ";
     marked_matrix[lastContour.first][lastContour.second].marked=true;
     std::pair<int,int> tmp=findNextPath(lastContour);
     while(tmp.first!=-1 && tmp.second!=-1){
